@@ -1,5 +1,5 @@
-#Ebay_Unisex_Perfume
-###Introduction
+# Ebay_Unisex_Perfume
+### Introduction
 The Ebay Unisex Perfume dataset is obtained from the ebay e-commerce site showing the male and female categories of perfumes sold. The dataset comprises 65,000 rows and 5 columns
 ### Data Processing
 - Changing of data type: changed available(column) data type to Nvarchar
