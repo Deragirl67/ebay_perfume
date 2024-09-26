@@ -13,7 +13,7 @@ The Ebay Unisex Perfume dataset is obtained from the ebay e-commerce site showin
 ### Data Analysis
 This includes SQL queries that were used to run the analysis
 
-'''SQL
+```SQL
 
 select*
   FROM[dbo].[ebay_mens_perfume$]
